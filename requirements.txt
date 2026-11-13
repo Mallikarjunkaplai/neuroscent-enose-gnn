@@ -1,0 +1,7 @@
+pyrfume
+dgllife
+pytest
+ipykernel
+scikit-multilearn
+
+scikit-learn

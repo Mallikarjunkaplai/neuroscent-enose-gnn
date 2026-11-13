@@ -1,0 +1,52 @@
+{
+    "coffee": {
+        "name": "Coffee",
+        "smiles": [
+            "NCCc1c[nH]c2ccccc12",
+            "CC1=C(O)C(=O)OC1=O",
+            "COc1cc(C=O)ccc1O",
+            "CC(=O)C1=CC=CO1"
+        ]
+    },
+    "vanilla_candle": {
+        "name": "Vanilla Candle",
+        "smiles": [
+            "COc1cc(C=O)ccc1O",
+            "COc1cc(C=O)ccc1OCC",
+            "CC1=C(O)C(=O)CO1"
+        ]
+    },
+    "mint": {
+        "name": "Mint",
+        "smiles": [
+            "CC1CCC(C(C)C)C(=O)C1",
+            "CC1=CCC(C(C)C)C(=O)C1",
+            "CC(=O)OC1CCC(C(C)C)CC1"
+        ]
+    },
+    "lemon": {
+        "name": "Lemon",
+        "smiles": [
+            "CC1=CCC(CC1)C(=C)C",
+            "CC(=CCCC(=CC=O)C)C",
+            "CC(=CCCC(=C)C=O)C"
+        ]
+    },
+    "banana": {
+        "name": "Banana",
+        "smiles": [
+            "CC(C)CCOC(=O)C",
+            "CC(=O)OCCCCC",
+            "CCCC(=O)OCC"
+        ]
+    },
+    "wood_smoke": {
+        "name": "Wood Smoke",
+        "smiles": [
+            "COc1ccc(C)cc1O",
+            "COc1cc(C=O)ccc1O",
+            "Cc1ccccc1O",
+            "COc1ccc(CC=C)cc1O"
+        ]
+    }
+}
